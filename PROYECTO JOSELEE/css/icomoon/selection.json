@@ -1,0 +1,142 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 64c282.77 0 512 186.25 512 416 0 229.752-229.23 416-512 416-27.156 0-53.81-1.734-79.824-5.044-109.978 109.978-241.25 129.7-368.176 132.596v-26.916c68.536-33.578 128-94.74 128-164.636 0-9.754-0.758-19.33-2.164-28.696-115.796-76.264-189.836-192.754-189.836-323.304 0-229.75 229.23-416 512-416z"
+				],
+				"tags": [
+					"bubble",
+					"comment",
+					"chat",
+					"talk"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 106,
+				"order": 4,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "bubble",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 106
+		},
+		{
+			"icon": {
+				"paths": [
+					"M622.826 702.736c-22.11-3.518-22.614-64.314-22.614-64.314s64.968-64.316 79.128-150.802c38.090 0 61.618-91.946 23.522-124.296 1.59-34.054 48.96-267.324-190.862-267.324-239.822 0-192.45 233.27-190.864 267.324-38.094 32.35-14.57 124.296 23.522 124.296 14.158 86.486 79.128 150.802 79.128 150.802s-0.504 60.796-22.614 64.314c-71.22 11.332-337.172 128.634-337.172 257.264h896c0-128.63-265.952-245.932-337.174-257.264z"
+				],
+				"tags": [
+					"user",
+					"profile",
+					"avatar",
+					"person",
+					"talk",
+					"member"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 112,
+				"order": 3,
+				"prevSize": 32,
+				"code": 58881,
+				"name": "user",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 112
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1024 358.156c0 86.362-37.218 164.030-96.49 217.844h0.49l-320 320c-32 32-64 64-96 64s-64-32-96-64l-319.51-320c-59.272-53.814-96.49-131.482-96.49-217.844 0-162.458 131.698-294.156 294.156-294.156 86.362 0 164.030 37.218 217.844 96.49 53.814-59.272 131.482-96.49 217.844-96.49 162.456 0 294.156 131.698 294.156 294.156z"
+				],
+				"tags": [
+					"heart",
+					"like",
+					"love",
+					"favorite"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 209,
+				"order": 1,
+				"prevSize": 32,
+				"code": 58882,
+				"name": "heart",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 209
+		},
+		{
+			"icon": {
+				"paths": [
+					"M307.251 276.48l-0.051 471.040 409.6-235.52z"
+				],
+				"tags": [
+					"arrow-right",
+					"triangle",
+					"right",
+					"next"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 204,
+				"order": 2,
+				"prevSize": 20,
+				"code": 58883,
+				"name": "arrow-right",
+				"ligatures": ""
+			},
+			"setIdx": 3,
+			"iconIdx": 204
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"showGlyphs": true,
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"resetPoint": 58880,
+			"showQuickUse": true,
+			"quickUsageToken": false,
+			"showMetrics": true,
+			"showMetadata": false
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"png": false,
+			"sprites": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"showLiga": false,
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"search": ""
+	}
+}
